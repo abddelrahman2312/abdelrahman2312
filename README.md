@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: `E-commerce Store`  
 - 🌱 I’m currently learning: `Next.js, TypeScript`  
 - 💬 Ask me about: `React, Node.js, MongoDB`  
-- 📫 How to reach me: `your-email@example.com`  
+- 📫 How to reach me: `abdelrhmanhany2323@gmail.com`  
 - ⚡ Fun fact: I drink coffee while coding ☕😄  
 
 ### 🛠️ Languages and Tools:
@@ -17,4 +17,4 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdo-dev&show_icons=true&theme=tokyonight)
+![abdelrahman2312](https://github-readme-stats.vercel.app/api?username=abdo-dev&show_icons=true&theme=tokyonight)
